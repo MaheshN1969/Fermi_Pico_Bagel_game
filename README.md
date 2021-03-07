@@ -9,13 +9,13 @@ Example :
 
 Let the no to be guess is 029 
 
-Guess           Result 
+Guess     \t      Result 
 
-376             Bagel 
-914             Pico 
-820             Fermi Pico 
-092             Fermi Pico Pico 
-029             Fermi Fermi Fermi !!! Game won 
+376         \t    Bagel \n
+914         \t    Pico \n
+820         \t    Fermi Pico \n 
+092         \t    Fermi Pico Pico \n 
+029         \t    Fermi Fermi Fermi !!! Game won  \n
 
 
 Aim : Aim of this Game is to guess the random number generated 
